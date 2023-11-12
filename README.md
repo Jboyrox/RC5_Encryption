@@ -5,8 +5,9 @@ Data Path For Simple function (RC5):
 ![Screenshot 2023-11-12 at 3 40 21 PM](https://github.com/Jboyrox/RC5_Encryption/assets/45749588/ff1f8f01-9af2-4d6c-afeb-dffb0a804b6e)
 
 Data Path For Inverse of the simple fuction:
-![Screenshot 2023-11-12 at 3 40 21 PM](https://github.com/Jboyrox/RC5_Encryption/assets/45749588/d6646e2d-f68a-466d-9838-6432151c1daa)
+![Screenshot 2023-11-12 at 3 41 09 PM](https://github.com/Jboyrox/RC5_Encryption/assets/45749588/4bfa6ab6-0cdd-4726-b14c-1d1725c83fae)
+
 
 Finite State Machines Used in to create the encoders and decoders
-![Screenshot 2023-11-12 at 3 40 21 PM](https://github.com/Jboyrox/RC5_Encryption/assets/45749588/06424b5e-6ed1-43a9-bac5-6d0a049006f1)
+![Screenshot 2023-11-12 at 3 41 57 PM](https://github.com/Jboyrox/RC5_Encryption/assets/45749588/5ddf38e4-7276-4309-b67f-76733b2e5e10)
 
